@@ -30,7 +30,6 @@ This repository contains a comprehensive set of practice exercises designed to e
 
 - **Grades_Short.xlsx** — Student grades dataset for Part 2
 - **Missing_values.xlsx** — Missing values dataset for Part 2
-- Additional CSV files for Part 1 exercises (if applicable)
 
 ## How to Use
 
